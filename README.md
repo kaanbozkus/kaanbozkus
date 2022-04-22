@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kaanbozkus 
 - 👀 I’m interested in front-end development and web3 smart contracts.
-- 🌱 I’m currently learning javascript, typescript, assemblyscript.
+- 🌱 I’m currently learning javascript, typescript, assemblyscript, solidity.
 - 📫 How to reach me kn.bzks@gmail.com
 
 <!---
